@@ -12,6 +12,12 @@ Hi there! I'm **Jagyansu Padhy**, a **Computer Science & Engineering** graduate 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jagyansu&theme=codeSTACKr&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jagyansu&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Jagyansu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Jagyansu&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Jagyansu&icon=0&color=0)](https://visitcount.itsvg.in)
 
